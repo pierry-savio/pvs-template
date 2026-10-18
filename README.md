@@ -1,6 +1,6 @@
 # PVS - Template
 
-**Pierry + Vite + Sass**: uma estrutura de projeto pronta e organizada para desenvolvimento web com HTML, SCSS e Vite.
+**Vite + Sass**: uma estrutura de projeto pronta e organizada para desenvolvimento web com HTML, SCSS e Vite.
 
 O PVS Template elimina o trabalho repetitivo do início de um projeto. Toda a estrutura de pastas já está montada, os estilos essenciais já estão configurados e o ambiente de desenvolvimento está pronto para uso.
 
